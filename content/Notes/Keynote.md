@@ -1,3 +1,5 @@
+Back to: [[MPS 2026 Conference Programme]]
+
 **Catalyzing Innovation and Accelerating Impact in Human-Based Science** 
 **Nicole Kleinstreuer**
 
@@ -15,7 +17,7 @@ Father of the organ-on-a-chip field. Large overview of probably >40 OoC projects
 
 **Designing High Throughput MPS for Vascularized Organoids: Using Patient-Derived Organoids for IND Filing** (Noo Li Jeon, Seoul National University)
 
-Expert on vascularization, also founded a cool company called Qureator with highly automated labs and workflows.
+Expert on vascularization, also founded a cool company called [Qureator](https://qureator.com/) with highly automated labs and workflows.
 
 **Artificial and Biological Intelligence for Precision Oncology** (Fanny Jaulin, Gustave Roussy)
 
@@ -25,4 +27,4 @@ Despite the title, not an AI talk but more focussed on organoids. However, they 
 
 *NASA is advancing human health in space through next-generation biological platforms. Aboard Artemis II was a first-of-its-kind study using microphysiological systems to study the effects of deep-space stressors on astronaut health. During her keynote, Dr. Carnell will provide an overview of the AVATAR (A Virtual Astronaut Tissue Analog Response) investigation, which is a collaboration between NASA, other government agencies, and industry. She will discuss how this research could enable precision health benefitting future missions to the Moon and Mars, as well as patient treatments on Earth.*
 
-Light-hearted fun talk from NASA where they described some experiments bringing cells and organoids into space.
+Light-hearted fun talk from NASA where they described some experiments bringing cells and organoids into space, and sequenced them to study health challenges for astronauts.
