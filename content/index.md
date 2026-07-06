@@ -1,14 +1,9 @@
 ---
 title: IMPSS 2026 Conference Report
-description: Notes, talks, and reflections from IMPSS 2026 in Washington
 tags:
   - conference
   - MPS
-readingTime: "false"
-date: "false"
 ---
-Test: Hello!
-
 Full program: https://mpsworldsummit.org/2026-schedule/ 
 
 - **Theme 1:** Engineering the Next Generation of MPS
@@ -100,5 +95,9 @@ May 29, 12:30 PM - 1:30 PM
 
 **Lisa Carnell**, NASA, Biological and Physical Sciences (BPS) Division; Washington, DC—United States
 
-# **[[Poster Sessions]]
-Including pictures of posters
+# [[Poster Sessions]]
+Including pictures of relevant posters
+
+# Other Sessions
+
+See: [https://mpsworldsummit.org/2026-schedule/](https://mpsworldsummit.org/2026-schedule/)

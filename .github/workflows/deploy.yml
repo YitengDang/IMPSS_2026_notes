@@ -32,11 +32,9 @@ jobs:
 
       - run: npx quartz build
 
-      - run: ls -R public
-
-      - run: ls -R
-      
-      - run: test -f public/index.html
+      # - run: ls -R public
+      # - run: ls -R
+      # - run: test -f public/index.html
 
       - uses: actions/upload-pages-artifact@v3
         with:
